@@ -30,7 +30,7 @@ A real-time light monitoring system using an ESP32, an LDR sensor, and a Python 
 Install dependencies:
 
 ```bash
-pip install -r desktop/requirements.txt
+pip install -r requirements.txt
 ```
 
 Start the application:
